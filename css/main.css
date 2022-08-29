@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(116, 116, 116);
+    height: 100vh;
+    width: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+  
+
+}
+
+h1{
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+p{
+    color: rgb(148, 36, 36);
+    font-weight: bold;
+}
